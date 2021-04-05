@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>ordered.sftpetclinic</groupId>
 	<artifactId>sft-pet-clinic</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<name>sft-pet-clinic</name>
 	<description>SFT Pet Clinic Project</description>
 	<properties>
@@ -34,6 +34,7 @@
 					<goals>
 						install
 					</goals>
+					<autoVersionSubmodules>true</autoVersionSubmodules>
 					<checkModificationExcludes>
 						<checkModificationExclude>pom.xml</checkModificationExclude>
 						<checkModificationExclude>**</checkModificationExclude>
@@ -44,6 +45,6 @@
 	</build>
 <scm>
 	<developerConnection>scm:git:https://github.com/s3477631/SFT-Pet-Clinic.git</developerConnection>
-  <tag>sft-pet-clinic-0.0.1</tag>
+  <tag>sft-pet-clinic-0.0.3</tag>
   </scm>
 </project>
