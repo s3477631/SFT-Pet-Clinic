@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>ordered.sftpetclinic</groupId>
 	<artifactId>sft-pet-clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>sft-pet-clinic</name>
 	<description>SFT Pet Clinic Project</description>
 	<properties>
@@ -43,7 +43,7 @@
 		</plugins>
 	</build>
 <scm>
-	<developerConnection>scm:git:git@github.com:s3477631/SFT-Pet-Clinic.git</developerConnection>
-  <tag>sft-pet-clinic-0.0.1</tag>
+	<developerConnection>scm:git:https://github.com/s3477631/SFT-Pet-Clinic.git</developerConnection>
+  <tag>sft-pet-clinic-0.0.2</tag>
   </scm>
 </project>
