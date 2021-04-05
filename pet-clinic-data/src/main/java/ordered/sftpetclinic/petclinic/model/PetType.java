@@ -1,4 +1,4 @@
-package ordered.sftpetclinic.sftpetclinic.model;
+package ordered.sftpetclinic.petclinic.model;
 
 public class PetType {
     private  String name;

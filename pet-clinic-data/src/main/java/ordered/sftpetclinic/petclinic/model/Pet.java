@@ -1,4 +1,4 @@
-package ordered.sftpetclinic.sftpetclinic.model;
+package ordered.sftpetclinic.petclinic.model;
 
 import java.time.LocalDate;
 

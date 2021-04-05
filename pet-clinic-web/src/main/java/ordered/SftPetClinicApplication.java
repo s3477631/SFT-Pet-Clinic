@@ -1,4 +1,4 @@
-package ordered.sftpetclinic.sftpetclinic;
+package ordered;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
